@@ -1,5 +1,5 @@
 # ⚜️ Welcome To My Profile Dear, Artisans:
-Im working to personal projects<br> I hope i provided you to some informations<br><br><br>
+Im working to personal projects<br> I hope i provided yall to some informations<br><br><br>
 
 
 ## My social media accounts & MailS:
