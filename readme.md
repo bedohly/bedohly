@@ -1,132 +1,31 @@
-<!-- ====================================================== -->
-<!--                        HEADER                          -->
-<!-- ====================================================== -->
+<!-- HEADER -->
+<p align="center"><img src="./assets/header.webp" width="100%" alt="Bedohly Header"></p>
 
-<p align="center">
-  <img
-    src="./assets/header.webp"
-    width="100%"
-    alt="Bedohly"
-  />
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-<!--                     MINI STATS                         -->
-<!-- ====================================================== -->
-
-<p align="center">
-
-  <img
-    src="./assets/pink-line.svg"
-    width="115"
-    height="2"
-    align="middle"
-    alt=""
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://api.visitorbadge.io/api/visitors?path=Bedohly%2FBedohly&label=VIEWS&labelColor=%230D1117&countColor=%23FFFFFF&style=flat-square"
-    height="22"
-    align="middle"
-    alt="Profile Views"
-  />
-
-  <a href="https://github.com/Bedohly/Bedohly/network/members">
-    <img
-      src="https://img.shields.io/github/forks/Bedohly/Bedohly?style=flat-square&label=FORKS&labelColor=0D1117&color=FFFFFF&logo=git&logoColor=FFFFFF"
-      height="22"
-      align="middle"
-      alt="Forks"
-    />
-  </a>
-
-  <a href="https://github.com/Bedohly/Bedohly/stargazers">
-    <img
-      src="https://img.shields.io/github/stars/Bedohly/Bedohly?style=flat-square&label=STARS&labelColor=0D1117&color=FFFFFF&logo=github&logoColor=FFFFFF"
-      height="22"
-      align="middle"
-      alt="Stars"
-    />
-  </a>
-
-  <a href="https://github.com/Bedohly?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/Bedohly?style=flat-square&label=FOLLOWERS&labelColor=0D1117&color=FFFFFF&logo=github&logoColor=FFFFFF"
-      height="22"
-      align="middle"
-      alt="Followers"
-    />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <img
-    src="./assets/pink-line.svg"
-    width="115"
-    height="2"
-    align="middle"
-    alt=""
-  />
-
-</p>
+<!-- MINI PROFILE STATS -->
+<div align="center">
+<img src="./assets/pink-line.svg" width="95" height="2" alt="">
+&nbsp;&nbsp;
+<img src="https://hits.sh/github.com/Bedohly.svg?style=flat-square&label=VIEWS&color=ffffff&labelColor=000000" height="22" alt="Views">
+&nbsp;
+<a href="https://github.com/Bedohly/Bedohly/stargazers"><img src="https://img.shields.io/github/stars/Bedohly/Bedohly?style=flat-square&label=STARS&labelColor=000000&color=ffffff&logo=github&logoColor=ffffff" height="22" alt="Stars"></a>
+&nbsp;
+<a href="https://github.com/Bedohly/Bedohly/network/members"><img src="https://img.shields.io/github/forks/Bedohly/Bedohly?style=flat-square&label=FORKS&labelColor=000000&color=ffffff&logo=git&logoColor=ffffff" height="22" alt="Forks"></a>
+&nbsp;
+<a href="https://github.com/Bedohly?tab=followers"><img src="https://img.shields.io/github/followers/Bedohly?style=flat-square&label=FOLLOWERS&labelColor=000000&color=ffffff&logo=github&logoColor=ffffff" height="22" alt="Followers"></a>
+&nbsp;&nbsp;
+<img src="./assets/pink-line.svg" width="95" height="2" alt="">
+</div>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                       ABOUT ME                         -->
-<!-- ====================================================== -->
+<!-- ABOUT -->
+<!-- Yakında: solda assets/pixel-bedohly.png, sağda About Me -->
 
-<!--
-Buraya sonraki aşamada:
+<!-- TECH STACK -->
 
-SOL:
-assets/pixel-bedohly.png
-
-SAĞ:
-About Me
--->
+<!-- PROJECTS -->
 
 <br>
 
-<!-- ====================================================== -->
-<!--                      TECH STACK                        -->
-<!-- ====================================================== -->
-
-
-
-<!-- ====================================================== -->
-<!--                       PROJECTS                         -->
-<!-- ====================================================== -->
-
-
-
-<!-- ====================================================== -->
-<!--                        FOOTER                          -->
-<!-- ====================================================== -->
-
-<br>
-
-<p align="center">
-
-  <img
-    src="./assets/pink-line.svg"
-    width="35%"
-    height="2"
-    alt=""
-  />
-
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="./assets/footer.gif"
-    width="100%"
-    alt="Bedohly Footer"
-  />
-</p>
+<!-- FOOTER -->
+<p align="center"><img src="./assets/footer.gif" width="100%" alt="Bedohly Footer"></p>
