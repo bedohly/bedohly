@@ -4,35 +4,33 @@
 
 <br>
 
+<!-- ===================== PROFILE STATS ===================== -->
+
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Bedohly&label=PROFILE%20VIEWS&color=000000&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=Bedohly&label=PROFILE+VIEWS&color=000000&style=for-the-badge"
     alt="Profile Views"
   />
 
-  <a href="https://github.com/Bedohly/Bedohly/stargazers">
-    <img
-      src="https://img.shields.io/github/stars/Bedohly/Bedohly?label=STARS&style=flat-square&labelColor=000000&color=ffffff&logo=github&logoColor=ffffff"
-      alt="Stars"
-    />
-  </a>
-
-  <a href="https://github.com/Bedohly/Bedohly/network/members">
-    <img
-      src="https://img.shields.io/github/forks/Bedohly/Bedohly?label=FORKS&style=flat-square&labelColor=000000&color=ffffff&logo=git&logoColor=ffffff"
-      alt="Forks"
-    />
-  </a>
-
-  <a href="https://github.com/Bedohly?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/Bedohly?label=FOLLOWERS&style=flat-square&labelColor=000000&color=ffffff&logo=github&logoColor=ffffff"
-      alt="Followers"
-    />
-  </a>
+  <img
+    src="https://img.shields.io/github/followers/Bedohly?label=FOLLOWERS&style=for-the-badge&labelColor=000000&color=ffffff&logo=github&logoColor=ffffff"
+    alt="Followers"
+  />
 </p>
 
-<br><br>
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Bedohly&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&rank_icon=github"
+    alt="Bedohly GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedohly&layout=compact&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"
+    alt="Bedohly Top Languages"
+  />
+</p>
 
 <!-- ========================================================= -->
 <!--                     ABOUT ME BURAYA                        -->
