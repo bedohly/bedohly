@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/blue-line.svg" width="190" height="30" align="middle" alt="">
+  <img src="./assets/blue-line.svg" width="110" height="30" align="middle" alt="">
   &nbsp;&nbsp;<img src="./assets/icon-views.svg" height="30" align="middle" alt=""><img src="https://hits.sh/github.com/yberktarzan.svg?style=flat-square&label=VIEWS&color=1F6FEB&labelColor=0B1220" height="30" align="middle" alt="Views">&nbsp;&nbsp;
   <a href="https://github.com/yberktarzan/yberktarzan/stargazers"><img src="https://img.shields.io/github/stars/yberktarzan/yberktarzan?style=flat-square&amp;label=STARS&amp;labelColor=0B1220&amp;color=1F6FEB&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0ibTggLjUgMi4yIDQuOSA1LjMuNi00IDMuNiAxLjEgNS4yTDggMTIuMiAzLjQgMTQuOGwxLjEtNS4yLTQtMy42IDUuMy0uNnoiLz48L3N2Zz4%3D" height="30" align="middle" alt="Stars"></a>
   &nbsp;&nbsp;
@@ -15,7 +15,7 @@
   &nbsp;&nbsp;
   <a href="https://github.com/yberktarzan?tab=followers"><img src="https://img.shields.io/github/followers/yberktarzan?style=flat-square&amp;label=FOLLOWERS&amp;labelColor=0B1220&amp;color=1F6FEB&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTUuNSA4YTMgMyAwIDEgMCAwLTYgMyAzIDAgMCAwIDAgNlptMCAxLjJDMi44IDkuMi41IDEwLjguNSAxMi43VjE0aDEwdi0xLjNjMC0xLjktMi4zLTMuNS01LTMuNVpNMTEuNSA3YTIuNSAyLjUgMCAxIDAgMC01IDIuNSAyLjUgMCAwIDAgMCA1Wm0uNSAxLjJjLS40IDAtLjggMC0xLjIuMSAxLjEuOSAxLjcgMi4xIDEuNyAzLjRWMTRoNHYtMS4zYzAtMS45LTEuOS0zLjUtNC41LTMuNVoiLz48L3N2Zz4%3D" height="30" align="middle" alt="Followers"></a>
   &nbsp;&nbsp;
-  <img src="./assets/blue-line.svg" width="190" height="30" align="middle" alt="">
+  <img src="./assets/blue-line.svg" width="110" height="30" align="middle" alt="">
 </p>
 
 <!-- ====================================================== -->
@@ -26,8 +26,8 @@
   <img src="./assets/banner-about.svg" width="100%" alt="About Me">
 </p>
 
-I'm **Yüksel Berk Tarzan** — **Full-Stack Developer**, founder of **Titan Bilişim**,
-building at **Alaz Yazılım** from **İstanbul**. I design service architectures that are still
+I'm **Yüksel Berk Tarzan** — **Full-Stack Developer** and **Engineering Lead** at **Yekta Teknoloji**,
+building from **İstanbul**. I design service architectures that are still
 standing in their third year, and the teams that keep them running.
 
 &#9656; &nbsp;**Microservice architecture** — gateways, service boundaries and contracts that hold under change<br>
@@ -38,12 +38,12 @@ standing in their third year, and the teams that keep them running.
 &#9656; &nbsp;**Auth &amp; security** — token flows, least privilege, secrets kept out of the repository<br>
 &#9656; &nbsp;**Ship and operate** — Docker images, CI pipelines and servers nobody is afraid of<br>
 &#9656; &nbsp;**Reusable foundations** — internal skeletons so the next project starts at day thirty<br>
-&#9656; &nbsp;**Founder&#39;s lens** — every technical call weighed in cost, risk and time to market<br>
+&#9656; &nbsp;**Business lens** — every technical call weighed in cost, risk and time to market<br>
 &#9656; &nbsp;**Bozkurt discipline** — the pack moves at the pace of the one walking in front
 
-📍 &nbsp;**İstanbul** &nbsp;&#183;&nbsp; **Alaz Yazılım** &nbsp;&#183;&nbsp; **Titan Bilişim**
+📍 &nbsp;**İstanbul** &nbsp;&#183;&nbsp; **Yekta Teknoloji**
 
-<a href="https://alaz.net.tr"><img src="./assets/social/web.svg" height="40" alt="Website"></a><a href="https://github.com/yberktarzan"><img src="./assets/social/github.svg" height="40" alt="GitHub"></a><a href="https://www.linkedin.com/in/y%C3%BCksel-berk-tarzan-62520a205"><img src="./assets/social/linkedin.svg" height="40" alt="LinkedIn"></a><a href="https://x.com/berk_tarzan"><img src="./assets/social/x.svg" height="40" alt="X"></a><a href="https://instagram.com/berktarzan"><img src="./assets/social/instagram.svg" height="40" alt="Instagram"></a>
+<a href="https://yektateknoloji.com"><img src="./assets/social/web.svg" height="40" alt="Website"></a><a href="https://github.com/yberktarzan"><img src="./assets/social/github.svg" height="40" alt="GitHub"></a><a href="https://www.linkedin.com/in/y%C3%BCksel-berk-tarzan-62520a205"><img src="./assets/social/linkedin.svg" height="40" alt="LinkedIn"></a><a href="https://x.com/berk_tarzan"><img src="./assets/social/x.svg" height="40" alt="X"></a><a href="https://instagram.com/berktarzan"><img src="./assets/social/instagram.svg" height="40" alt="Instagram"></a>
 
 <!-- ====================================================== -->
 <!--                       TECH STACK                       -->
@@ -54,33 +54,7 @@ standing in their third year, and the teams that keep them running.
 </p>
 
 <p align="center">
-  <img src="./assets/labels/languages.svg" height="30" alt="Languages"><br>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,go,cs,cpp,c,html,css,bash&amp;perline=10" width="540" alt="Languages">
-</p>
-
-<p align="center">
-  <img src="./assets/labels/frontend.svg" height="30" alt="Frontend"><br>
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,gatsby,tailwind,bootstrap,sass,jquery,vite,threejs&amp;perline=10" width="540" alt="Frontend">
-</p>
-
-<p align="center">
-  <img src="./assets/labels/backend.svg" height="30" alt="Backend"><br>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,dotnet,graphql,rabbitmq,nginx&amp;perline=7" width="380" alt="Backend">
-</p>
-
-<p align="center">
-  <img src="./assets/labels/data.svg" height="30" alt="Data and Storage"><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,elasticsearch,firebase&amp;perline=7" width="380" alt="Data and Storage">
-</p>
-
-<p align="center">
-  <img src="./assets/labels/cloud.svg" height="30" alt="Cloud and DevOps"><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,cloudflare,aws,grafana,ubuntu&amp;perline=8" width="435" alt="Cloud and DevOps">
-</p>
-
-<p align="center">
-  <img src="./assets/labels/tools.svg" height="30" alt="Tools"><br>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,phpstorm,vscode,postman,figma,npm,notion,discord&amp;perline=10" width="540" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,go,cs,cpp,html,css,vue,nuxtjs,react,tailwind,bootstrap,sass,jquery,vite,laravel,nodejs,express,dotnet,graphql,rabbitmq,nginx,bash,mysql,postgres,mongodb,redis,sqlite,elasticsearch,firebase,supabase,docker,kubernetes,linux,githubactions,cloudflare,aws,git,github,gitlab,phpstorm,vscode,postman,figma,npm,notion,discord&amp;perline=8" width="560" alt="Tech Stack">
 </p>
 
 <!-- ====================================================== -->
@@ -95,10 +69,6 @@ standing in their third year, and the teams that keep them running.
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yberktarzan&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=0B1220&amp;title_color=58A6FF&amp;text_color=C9D8EE&amp;icon_color=58A6FF&amp;ring_color=58A6FF&amp;hide_border=true" width="48%" alt="GitHub Stats">
   &nbsp;
   <img src="https://streak-stats.vercel.app/?user=yberktarzan&amp;hide_border=true&amp;background=0B1220&amp;stroke=1F6FEB&amp;ring=58A6FF&amp;fire=8FD0FF&amp;currStreakNum=58A6FF&amp;currStreakLabel=58A6FF&amp;sideNums=C9D8EE&amp;sideLabels=C9D8EE&amp;dates=6E86A8" width="48%" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yberktarzan&amp;layout=compact&amp;langs_count=10&amp;bg_color=0B1220&amp;title_color=58A6FF&amp;text_color=C9D8EE&amp;hide_border=true" width="48%" alt="Most Used Languages">
 </p>
 
 <p align="center">
