@@ -1,5 +1,5 @@
 <!-- ====================================================== -->
-<!--                 HEADER + PROFILE STATS                 -->
+<!--                         HEADER                         -->
 <!-- ====================================================== -->
 
 <p align="center">
@@ -7,15 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="./assets/blue-line.svg" width="110" height="30" align="middle" alt="">
-  &nbsp;&nbsp;<img src="./assets/icon-views.svg" height="30" align="middle" alt=""><img src="https://hits.sh/github.com/yberktarzan.svg?style=flat-square&label=VIEWS&color=1F6FEB&labelColor=0B1220" height="30" align="middle" alt="Views">&nbsp;&nbsp;
-  <a href="https://github.com/yberktarzan/yberktarzan/stargazers"><img src="https://img.shields.io/github/stars/yberktarzan/yberktarzan?style=flat-square&amp;label=STARS&amp;labelColor=0B1220&amp;color=1F6FEB&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0ibTggLjUgMi4yIDQuOSA1LjMuNi00IDMuNiAxLjEgNS4yTDggMTIuMiAzLjQgMTQuOGwxLjEtNS4yLTQtMy42IDUuMy0uNnoiLz48L3N2Zz4%3D" height="30" align="middle" alt="Stars"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/yberktarzan/yberktarzan/network/members"><img src="https://img.shields.io/github/forks/yberktarzan/yberktarzan?style=flat-square&amp;label=FORKS&amp;labelColor=0B1220&amp;color=1F6FEB&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTUgNS40di45YzAgLjQuMy43LjguN2g0LjVjLjQgMCAuNy0uMy43LS44di0uOGEyLjMgMi4zIDAgMSAxIDEuNSAwdi45YTIuMyAyLjMgMCAwIDEtMi4zIDIuMmgtMS41djIuMWEyLjMgMi4zIDAgMSAxLTEuNSAwVjguNUg1LjhhMi4zIDIuMyAwIDAgMS0yLjMtMi4ydi0uOWEyLjMgMi4zIDAgMSAxIDEuNSAwWk01IDMuM2EuOC44IDAgMSAwLTEuNSAwIC44LjggMCAwIDAgMS41IDBaTTExLjggNGEuOC44IDAgMSAwIDAtMS41LjguOCAwIDAgMCAwIDEuNVptLTMgOC44YS44LjggMCAxIDAtMS41IDAgLjguOCAwIDAgMCAxLjUgMFoiLz48L3N2Zz4%3D" height="30" align="middle" alt="Forks"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/yberktarzan?tab=followers"><img src="https://img.shields.io/github/followers/yberktarzan?style=flat-square&amp;label=FOLLOWERS&amp;labelColor=0B1220&amp;color=1F6FEB&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTUuNSA4YTMgMyAwIDEgMCAwLTYgMyAzIDAgMCAwIDAgNlptMCAxLjJDMi44IDkuMi41IDEwLjguNSAxMi43VjE0aDEwdi0xLjNjMC0xLjktMi4zLTMuNS01LTMuNVpNMTEuNSA3YTIuNSAyLjUgMCAxIDAgMC01IDIuNSAyLjUgMCAwIDAgMCA1Wm0uNSAxLjJjLS40IDAtLjggMC0xLjIuMSAxLjEuOSAxLjcgMi4xIDEuNyAzLjRWMTRoNHYtMS4zYzAtMS45LTEuOS0zLjUtNC41LTMuNVoiLz48L3N2Zz4%3D" height="30" align="middle" alt="Followers"></a>
-  &nbsp;&nbsp;
-  <img src="./assets/blue-line.svg" width="110" height="30" align="middle" alt="">
+  <img src="https://img.shields.io/badge/SOFTWARE%20ARCHITECT-0D1524?style=flat-square&amp;labelColor=0D1524" height="26" alt="Software Architect">
+  &nbsp;
+  <img src="https://img.shields.io/badge/İSTANBUL%20%C2%B7%20TR-0D1524?style=flat-square&amp;labelColor=0D1524" height="26" alt="İstanbul">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://hits.sh/github.com/yberktarzan.svg?style=flat-square&label=VIEWS&color=1F6FEB&labelColor=0D1524" height="26" alt="Views">
+  &nbsp;
+  <a href="https://github.com/yberktarzan?tab=followers"><img src="https://img.shields.io/github/followers/yberktarzan?style=flat-square&amp;label=FOLLOWERS&amp;labelColor=0D1524&amp;color=1F6FEB" height="26" alt="Followers"></a>
+
 </p>
 
 <!-- ====================================================== -->
@@ -26,24 +25,45 @@
   <img src="./assets/banner-about.svg" width="100%" alt="About Me">
 </p>
 
-I'm **Yüksel Berk Tarzan** — **Full-Stack Developer** and **Engineering Lead** at **Yekta Teknoloji**,
-building from **İstanbul**. I design service architectures that are still
-standing in their third year, and the teams that keep them running.
+<img src="./assets/profile-card.svg" align="left" width="315" alt="Yüksel Berk Tarzan — Software Architect">
 
-&#9656; &nbsp;**Microservice architecture** — gateways, service boundaries and contracts that hold under change<br>
-&#9656; &nbsp;**Laravel at depth** — skeletons, service layers and packages the whole team can build on<br>
-&#9656; &nbsp;**API first** — versioned, documented, predictable; the contract lands before the controller<br>
-&#9656; &nbsp;**Full stack** — Blade, Vue and Nuxt at the front, PHP and Go behind them<br>
-&#9656; &nbsp;**Data layer** — clean schemas, tight queries, Redis where it actually pays off<br>
-&#9656; &nbsp;**Auth &amp; security** — token flows, least privilege, secrets kept out of the repository<br>
-&#9656; &nbsp;**Ship and operate** — Docker images, CI pipelines and servers nobody is afraid of<br>
-&#9656; &nbsp;**Reusable foundations** — internal skeletons so the next project starts at day thirty<br>
-&#9656; &nbsp;**Business lens** — every technical call weighed in cost, risk and time to market<br>
-&#9656; &nbsp;**Bozkurt discipline** — the pack moves at the pace of the one walking in front
+I design and lead the systems behind the product: where the service boundaries fall, how the
+data moves between them, and what the team can safely build on top. Most of my work lives in
+the **PHP / Laravel** ecosystem, with **Go** where the throughput asks for it.
 
-📍 &nbsp;**İstanbul** &nbsp;&#183;&nbsp; **Yekta Teknoloji**
+&#9656; &nbsp;**Service architecture** — boundaries, gateways, contracts that hold<br>
+&#9656; &nbsp;**Platform foundations** — skeletons and shared packages to build on<br>
+&#9656; &nbsp;**API design** — versioned, documented, predictable by default<br>
+&#9656; &nbsp;**Data &amp; consistency** — clean schemas, tight queries, sane caching<br>
+&#9656; &nbsp;**Identity &amp; access** — token flows, least privilege, no secrets in git<br>
+&#9656; &nbsp;**Delivery** — containerised services, CI pipelines, boring releases<br>
+&#9656; &nbsp;**Leading from the front** — the pack moves at the pace of the leader
 
-<a href="https://yektateknoloji.com"><img src="./assets/social/web.svg" height="40" alt="Website"></a><a href="https://github.com/yberktarzan"><img src="./assets/social/github.svg" height="40" alt="GitHub"></a><a href="https://www.linkedin.com/in/y%C3%BCksel-berk-tarzan-62520a205"><img src="./assets/social/linkedin.svg" height="40" alt="LinkedIn"></a><a href="https://x.com/berk_tarzan"><img src="./assets/social/x.svg" height="40" alt="X"></a><a href="https://instagram.com/berktarzan"><img src="./assets/social/instagram.svg" height="40" alt="Instagram"></a>
+<br clear="left">
+
+<p align="center">
+  <a href="https://yektateknoloji.com"><img src="./assets/social/web.svg" height="38" alt="Website"></a><a href="https://github.com/yberktarzan"><img src="./assets/social/github.svg" height="38" alt="GitHub"></a><a href="https://www.linkedin.com/in/y%C3%BCksel-berk-tarzan-62520a205"><img src="./assets/social/linkedin.svg" height="38" alt="LinkedIn"></a><a href="https://x.com/berk_tarzan"><img src="./assets/social/x.svg" height="38" alt="X"></a><a href="https://instagram.com/berktarzan"><img src="./assets/social/instagram.svg" height="38" alt="Instagram"></a>
+</p>
+
+<!-- ====================================================== -->
+<!--                     SELECTED WORK                      -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img src="./assets/banner-work.svg" width="100%" alt="Selected Work">
+</p>
+
+<p align="center">
+  <a href="https://github.com/yberktarzan/Microservicev2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yberktarzan&amp;repo=Microservicev2&amp;bg_color=0B1220&amp;title_color=58A6FF&amp;text_color=C9D8EE&amp;icon_color=58A6FF&amp;hide_border=true" width="48%" alt="Microservice v2"></a>
+  &nbsp;
+  <a href="https://github.com/yberktarzan/gateway"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yberktarzan&amp;repo=gateway&amp;bg_color=0B1220&amp;title_color=58A6FF&amp;text_color=C9D8EE&amp;icon_color=58A6FF&amp;hide_border=true" width="48%" alt="API Gateway"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yberktarzan/authentication-service"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yberktarzan&amp;repo=authentication-service&amp;bg_color=0B1220&amp;title_color=58A6FF&amp;text_color=C9D8EE&amp;icon_color=58A6FF&amp;hide_border=true" width="48%" alt="Authentication Service"></a>
+  &nbsp;
+  <a href="https://github.com/yberktarzan/laravel-skeleton"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yberktarzan&amp;repo=laravel-skeleton&amp;bg_color=0B1220&amp;title_color=58A6FF&amp;text_color=C9D8EE&amp;icon_color=58A6FF&amp;hide_border=true" width="48%" alt="Laravel Skeleton"></a>
+</p>
 
 <!-- ====================================================== -->
 <!--                       TECH STACK                       -->
@@ -53,9 +73,36 @@ standing in their third year, and the teams that keep them running.
   <img src="./assets/banner-stack.svg" width="100%" alt="Tech Stack">
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,go,cs,cpp,html,css,vue,nuxtjs,react,tailwind,bootstrap,sass,jquery,vite,laravel,nodejs,express,dotnet,graphql,rabbitmq,nginx,bash,mysql,postgres,mongodb,redis,sqlite,elasticsearch,firebase,supabase,docker,kubernetes,linux,githubactions,cloudflare,aws,git,github,gitlab,phpstorm,vscode,postman,figma,npm,notion,discord&amp;perline=8" width="560" alt="Tech Stack">
-</p>
+<table align="center">
+  <tr>
+    <th align="left">Layer</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,js,ts,go,cs,cpp,html,css&amp;perline=8" width="360" alt="Languages"></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,tailwind,bootstrap,sass,jquery,vite&amp;perline=8" width="360" alt="Frontend"></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,dotnet,graphql,rabbitmq,nginx,bash&amp;perline=8" width="360" alt="Backend"></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,elasticsearch,firebase,supabase&amp;perline=8" width="360" alt="Data"></td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,cloudflare,aws,grafana,git&amp;perline=8" width="360" alt="Cloud and DevOps"></td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=github,gitlab,phpstorm,vscode,postman,figma,npm,notion&amp;perline=8" width="360" alt="Tooling"></td>
+  </tr>
+</table>
 
 <!-- ====================================================== -->
 <!--                      GITHUB STATS                      -->

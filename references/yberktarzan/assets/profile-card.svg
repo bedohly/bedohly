@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="286" viewBox="0 0 320 286">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#101B31"/>
+      <stop offset="100%" stop-color="#080D18"/>
+    </linearGradient>
+    <style>
+      .n  { font-family: 'Segoe UI', Ubuntu, 'DejaVu Sans', Sans-Serif; font-weight: 700;
+            font-size: 16px; letter-spacing: .6px; fill: #EAF2FF; }
+      .r  { font-family: 'Segoe UI', Ubuntu, 'DejaVu Sans', Sans-Serif; font-weight: 600;
+            font-size: 10.5px; letter-spacing: 2.6px; fill: #58A6FF; }
+      .k  { font-family: 'Segoe UI', Ubuntu, 'DejaVu Sans', Sans-Serif; font-weight: 600;
+            font-size: 9.5px; letter-spacing: 1.8px; fill: #6E86A8; }
+      .v  { font-family: 'Segoe UI', Ubuntu, 'DejaVu Sans', Sans-Serif; font-weight: 600;
+            font-size: 12px; fill: #D6E4F7; }
+      .m  { font-family: 'Segoe UI', Ubuntu, 'DejaVu Sans', Sans-Serif; font-weight: 700;
+            font-size: 15px; letter-spacing: .5px; fill: #58A6FF; }
+    </style>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="318.5" height="284.5" rx="14"
+        fill="url(#card)" stroke="#1E2D45" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="4" height="284.5" rx="2" fill="#1F6FEB"/>
+
+  <rect x="26" y="24" width="46" height="46" rx="11" fill="#0C1526" stroke="#2A4570" stroke-width="1.5"/>
+  <text class="m" x="49" y="53" text-anchor="middle">YBT</text>
+
+  <text class="n" x="86" y="43">Yüksel Berk Tarzan</text>
+  <text class="r" x="86" y="61">SOFTWARE ARCHITECT</text>
+
+  <rect x="26" y="92" width="268" height="1" fill="#1B2A44"/>
+
+  <g>
+    <text class="k" x="26"  y="118">COMPANY</text>
+    <text class="v" x="294" y="118" text-anchor="end">Yekta Teknoloji</text>
+    <text class="k" x="26"  y="150">LOCATION</text>
+    <text class="v" x="294" y="150" text-anchor="end">İstanbul, Türkiye</text>
+    <text class="k" x="26"  y="182">FOCUS</text>
+    <text class="v" x="294" y="182" text-anchor="end">Distributed Systems</text>
+    <text class="k" x="26"  y="214">PRIMARY</text>
+    <text class="v" x="294" y="214" text-anchor="end">PHP · Laravel · Go</text>
+    <text class="k" x="26"  y="246">PATTERN</text>
+    <text class="v" x="294" y="246" text-anchor="end">Microservices · API GW</text>
+  </g>
+
+  <rect x="26" y="264" width="268" height="1" fill="#1B2A44"/>
+</svg>
