@@ -18,15 +18,6 @@
   <img src="./assets/blue-line.svg" width="190" height="30" align="middle" alt="">
 </p>
 
-<p align="center">
-  <img src="./assets/divider.svg" width="72%" alt="">
-</p>
-
-<p align="center">
-  <i>« Kün tuğ bolgıl, kök kurıkan »</i><br>
-  <sub>“Güneş bayrağımız olsun, gökyüzü çadırımız.” — <b>Oğuz Kağan Destanı</b></sub>
-</p>
-
 <!-- ====================================================== -->
 <!--                        ABOUT ME                        -->
 <!-- ====================================================== -->
@@ -34,8 +25,6 @@
 <p align="center">
   <img src="./assets/banner-about.svg" width="100%" alt="About Me">
 </p>
-
-<img src="./assets/crest.svg" align="left" width="235" alt="">
 
 I'm **Yüksel Berk Tarzan** — **Full-Stack Developer**, founder of **Titan Bilişim**,
 building at **Alaz Yazılım** from **İstanbul**. I design service architectures that are still
@@ -55,8 +44,6 @@ standing in their third year, and the teams that keep them running.
 📍 &nbsp;**İstanbul** &nbsp;&#183;&nbsp; **Alaz Yazılım** &nbsp;&#183;&nbsp; **Titan Bilişim**
 
 <a href="https://alaz.net.tr"><img src="./assets/social/web.svg" height="40" alt="Website"></a><a href="https://github.com/yberktarzan"><img src="./assets/social/github.svg" height="40" alt="GitHub"></a><a href="https://www.linkedin.com/in/y%C3%BCksel-berk-tarzan-62520a205"><img src="./assets/social/linkedin.svg" height="40" alt="LinkedIn"></a><a href="https://x.com/berk_tarzan"><img src="./assets/social/x.svg" height="40" alt="X"></a><a href="https://instagram.com/berktarzan"><img src="./assets/social/instagram.svg" height="40" alt="Instagram"></a>
-
-<br clear="left">
 
 <!-- ====================================================== -->
 <!--                       TECH STACK                       -->
@@ -116,8 +103,4 @@ standing in their third year, and the teams that keep them running.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yberktarzan&amp;bg_color=0B1220&amp;color=C9D8EE&amp;line=58A6FF&amp;point=8FD0FF&amp;title_color=58A6FF&amp;area=true&amp;area_color=1F6FEB&amp;hide_border=true&amp;custom_title=Contribution%20Graph" width="98%" alt="Contribution Graph">
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="72%" alt="">
 </p>
