@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F4A6B8"/>
+    </linearGradient>
+    <style>
+      .t {
+        font-family: 'Segoe UI', Ubuntu, 'DejaVu Sans', Sans-Serif;
+        font-weight: 700; font-size: 34px; fill: #000000;
+        opacity: 0; animation: cyc 10.5s infinite;
+      }
+      .t2 { animation-delay: 3.5s; }
+      .t3 { animation-delay: 7s; }
+      @keyframes cyc {
+        0%   { opacity: 0; }
+        3%   { opacity: 1; }
+        30%  { opacity: 1; }
+        33%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+  <rect width="1000" height="70" fill="url(#g)"/>
+  <text class="t"     x="500" y="46" text-anchor="middle">GitHub Stats</text>
+  <text class="t t2"  x="500" y="46" text-anchor="middle">Please Star My Repos</text>
+  <text class="t t3"  x="500" y="46" text-anchor="middle">Don't forget to follow</text>
+</svg>

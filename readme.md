@@ -20,7 +20,7 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FFFFFF,60:FFFFFF,100:F4A6B8&amp;height=70&amp;section=header&amp;text=About%20Me&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="About Me">
+  <img src="./assets/banner-about.svg" width="100%" alt="About Me">
 </p>
 
 <img src="./assets/bedo.webp" align="left" width="220" alt="Bedo">
@@ -46,11 +46,11 @@ end — the data model, the API and the interface — and I care how the result 
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FFFFFF,60:FFFFFF,100:F4A6B8&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="Tech Stack">
+  <img src="./assets/banner-stack.svg" width="100%" alt="Tech Stack">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mysql,git,docker&amp;perline=6" width="720" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass,nodejs,express,nestjs,python,php,laravel,mysql,postgres,mongodb,redis,git,github,docker,vscode&amp;perline=8" width="560" alt="Tech Stack">
 </p>
 
 <!-- ====================================================== -->
@@ -58,17 +58,17 @@ end — the data model, the API and the interface — and I care how the result 
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FFFFFF,60:FFFFFF,100:F4A6B8&amp;height=70&amp;section=header&amp;text=GitHub%20Stats&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="GitHub Stats">
+  <img src="./assets/banner-stats.svg" width="100%" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bedohly&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=000000&amp;title_color=F4A6B8&amp;text_color=FFFFFF&amp;icon_color=F4A6B8&amp;ring_color=F4A6B8&amp;hide_border=true" width="48%" alt="Bedohly's GitHub Stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bedohly&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=FFFFFF&amp;title_color=F4A6B8&amp;text_color=000000&amp;icon_color=F4A6B8&amp;ring_color=F4A6B8&amp;hide_border=true" width="48%" alt="Bedohly's GitHub Stats">
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Bedohly&amp;hide_border=true&amp;background=000000&amp;stroke=000000&amp;ring=F4A6B8&amp;fire=F4A6B8&amp;currStreakNum=F4A6B8&amp;currStreakLabel=F4A6B8&amp;sideNums=FFFFFF&amp;sideLabels=FFFFFF&amp;dates=8B949E" width="48%" alt="Bedohly's GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=Bedohly&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=FFFFFF&amp;ring=F4A6B8&amp;fire=F4A6B8&amp;currStreakNum=F4A6B8&amp;currStreakLabel=F4A6B8&amp;sideNums=000000&amp;sideLabels=000000&amp;dates=666666" width="48%" alt="Bedohly's GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bedohly&amp;bg_color=000000&amp;color=FFFFFF&amp;line=F4A6B8&amp;point=F4A6B8&amp;title_color=F4A6B8&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Graph" width="98%" alt="Bedohly's Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bedohly&amp;bg_color=FFFFFF&amp;color=000000&amp;line=F4A6B8&amp;point=F4A6B8&amp;title_color=000000&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Graph" width="98%" alt="Bedohly's Contribution Graph">
 </p>
 
 <!-- ====================================================== -->
