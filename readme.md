@@ -21,19 +21,18 @@
 <!--                        ABOUT ME                        -->
 <!-- ====================================================== -->
 
-<img src="./assets/bedo.webp" align="left" width="260" alt="Bedo">
+<img src="./assets/bedo.webp" align="left" width="320" alt="Bedo">
 
-## &nbsp;👋&nbsp; About Me
+### &nbsp;👋&nbsp; About Me
 
 Hey, I'm **Bedo** — a **Full-Stack Web Developer**.<br>
-I build web applications end to end and care about how they feel,
-not just whether they run.
+I build web applications end to end.
 
 <br>
 
-🚀&nbsp;&nbsp; **Whole stack, one brain** — database schemas, APIs, interfaces<br><br>
+🚀&nbsp;&nbsp; **Whole stack, one brain** — schemas, APIs, interfaces<br><br>
 ⚡&nbsp;&nbsp; **Performance first** — clean architecture, no dead weight<br><br>
-🧩&nbsp;&nbsp; **Idea to product** — I turn messy briefs into shipped software<br><br>
+🧩&nbsp;&nbsp; **Idea to product** — messy briefs into shipped software<br><br>
 🌙&nbsp;&nbsp; **Night shift** — always building something new
 
 <br>
