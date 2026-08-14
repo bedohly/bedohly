@@ -44,6 +44,18 @@ I build web applications end to end: data model, API, interface.
 <br>
 
 <!-- ====================================================== -->
+<!--                      GITHUB STATS                      -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bedohly&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=000000&amp;title_color=F4A6B8&amp;text_color=FFFFFF&amp;icon_color=F4A6B8&amp;ring_color=F4A6B8&amp;hide_border=true" width="48%" alt="Bedohly's GitHub Stats">
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Bedohly&amp;hide_border=true&amp;background=000000&amp;stroke=000000&amp;ring=F4A6B8&amp;fire=F4A6B8&amp;currStreakNum=F4A6B8&amp;currStreakLabel=F4A6B8&amp;sideNums=FFFFFF&amp;sideLabels=FFFFFF&amp;dates=8B949E" width="48%" alt="Bedohly's GitHub Streak">
+</p>
+
+<br>
+
+<!-- ====================================================== -->
 <!--                       TECH STACK                       -->
 <!-- ====================================================== -->
 
