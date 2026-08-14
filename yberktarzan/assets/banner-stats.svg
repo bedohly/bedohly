@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="88" viewBox="0 0 1000 88">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#05080F"/>
+      <stop offset="35%"  stop-color="#0B1220"/>
+      <stop offset="65%"  stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#05080F"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="28%"  stop-color="#1F6FEB" stop-opacity=".7"/>
+      <stop offset="50%"  stop-color="#8FD0FF"/>
+      <stop offset="72%"  stop-color="#1F6FEB" stop-opacity=".7"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#8FD0FF" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity=".30"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="crmask">
+      <rect width="1000" height="88" fill="black"/>
+      <circle cx="0" cy="0" r="13" fill="white" transform="translate(62 44)"/>
+      <circle cx="4.2" cy="0" r="10.6" fill="black" transform="translate(62 44)"/>
+      <circle cx="0" cy="0" r="13" fill="white" transform="translate(938 44)"/>
+      <circle cx="-4.2" cy="0" r="10.6" fill="black" transform="translate(938 44)"/>
+    </mask>
+    <style>
+      .k { font-family: 'Segoe UI', Ubuntu, 'DejaVu Sans', Sans-Serif; font-weight: 600;
+           font-size: 11px; letter-spacing: 5px; fill: #58A6FF; }
+      .t { font-family: 'Segoe UI', Ubuntu, 'DejaVu Sans', Sans-Serif; font-weight: 700;
+           font-size: 29px; letter-spacing: 7px; fill: #E9F2FF; }
+      .sw { animation: sw 9s linear infinite; }
+      @keyframes sw { 0% { transform: translateX(-360px) } 100% { transform: translateX(1360px) } }
+      .fl { animation: fl 5s ease-in-out infinite; }
+      @keyframes fl { 0%,100% { opacity: .45 } 50% { opacity: 1 } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="88" fill="url(#bg)"/>
+  <ellipse cx="500" cy="44" rx="360" ry="52" fill="url(#halo)"/>
+  <rect class="sw" x="0" y="0" width="360" height="88" fill="url(#sweep)"/>
+
+  <rect x="0" y="0"  width="1000" height="2" fill="url(#rule)"/>
+  <rect x="0" y="86" width="1000" height="2" fill="url(#rule)"/>
+
+  <rect width="1000" height="88" fill="#58A6FF" mask="url(#crmask)" class="fl"/>
+  <g fill="#8FD0FF" class="fl">
+    <polygon transform="translate(80 39) scale(.62)" points="0,-6 1.41,-1.94 5.71,-1.85 2.28,0.74 3.53,4.85 0,2.4 -3.53,4.85 -2.28,0.74 -5.71,-1.85 -1.41,-1.94"/>
+    <polygon transform="translate(920 39) scale(.62)" points="0,-6 1.41,-1.94 5.71,-1.85 2.28,0.74 3.53,4.85 0,2.4 -3.53,4.85 -2.28,0.74 -5.71,-1.85 -1.41,-1.94"/>
+  </g>
+
+  <rect x="120" y="43" width="240" height="1" fill="#1F6FEB" opacity=".45"/>
+  <rect x="640" y="43" width="240" height="1" fill="#1F6FEB" opacity=".45"/>
+
+  <text class="k" x="500" y="30" text-anchor="middle">İSTATİSTİK</text>
+  <text class="t" x="500" y="66" text-anchor="middle">GITHUB STATS</text>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <radialGradient id="disc" cx="0.55" cy="0.35" r="0.68">
+      <stop offset="0%"   stop-color="#13233E"/>
+      <stop offset="55%"  stop-color="#0A1120"/>
+      <stop offset="100%" stop-color="#04070E"/>
+    </radialGradient>
+    <linearGradient id="wolf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#CDE7FF"/>
+      <stop offset="40%"  stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#173F9E"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   stop-color="#8FD0FF" stop-opacity=".38"/>
+      <stop offset="100%" stop-color="#8FD0FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ridge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#58A6FF" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="cres">
+      <circle cx="166" cy="70" r="31" fill="white"/>
+      <circle cx="177" cy="68" r="26" fill="black"/>
+    </mask>
+    <mask id="wm">
+      <rect x="-40" y="-40" width="240" height="240" fill="white"/>
+      <polygon fill="black" points="109,36.5 105,41.5 74,45.5 82,41.8"/>
+      <polygon fill="black" points="72,27.5 80,30.5 73,33.5"/>
+    </mask>
+    <clipPath id="dclip"><circle cx="120" cy="120" r="96"/></clipPath>
+    <style>
+      .rot { transform-origin: 120px 120px; animation: rot 30s linear infinite; }
+      @keyframes rot { to { transform: rotate(360deg) } }
+      .brth { animation: brth 6s ease-in-out infinite; }
+      @keyframes brth { 0%,100% { opacity: .6 } 50% { opacity: 1 } }
+      .tw { animation: tw 4s ease-in-out infinite; }
+      .tw2 { animation-delay: 1.3s } .tw3 { animation-delay: 2.6s }
+      @keyframes tw { 0%,100% { opacity: .2 } 50% { opacity: .95 } }
+    </style>
+  </defs>
+
+  <circle cx="120" cy="120" r="113" fill="none" stroke="#1F6FEB" stroke-opacity=".22" stroke-width="1"/>
+  <g class="rot">
+    <circle cx="120" cy="120" r="106" fill="none" stroke="#1F6FEB" stroke-opacity=".5"
+            stroke-width="1.5" stroke-dasharray="2 12" stroke-linecap="round"/>
+  </g>
+  <circle cx="120" cy="120" r="97" fill="url(#disc)" stroke="#1F6FEB" stroke-opacity=".75" stroke-width="1.5"/>
+
+  <circle cx="168" cy="70" r="48" fill="url(#halo)" class="brth"/>
+  <rect width="240" height="240" fill="#BFE0FF" mask="url(#cres)" opacity=".7"/>
+  <polygon class="brth" fill="#BFE0FF" opacity=".8" transform="translate(196 82) scale(1.35)"
+           points="0,-6 1.41,-1.94 5.71,-1.85 2.28,0.74 3.53,4.85 0,2.4 -3.53,4.85 -2.28,0.74 -5.71,-1.85 -1.41,-1.94"/>
+  <g fill="#8FD0FF">
+    <circle class="tw"      cx="60"  cy="66"  r="1.8"/>
+    <circle class="tw tw2"  cx="46"  cy="112" r="1.4"/>
+    <circle class="tw tw3"  cx="88"  cy="46"  r="1.5"/>
+    <circle class="tw tw2"  cx="196" cy="140" r="1.4"/>
+    <circle class="tw"      cx="66"  cy="164" r="1.2"/>
+  </g>
+
+  <g clip-path="url(#dclip)">
+    <g transform="translate(46 84) scale(0.92) rotate(-30 90 40)">
+      <path fill="url(#wolf)" mask="url(#wm)" d="M114,34 L112,29
+        C 104,26 92,26 78,24
+        C 74,21 71,20 68,18
+        L 62,-6 L 50,12 L 38,-4 L 28,20
+        C 24,28 23,33 22,40
+        C 20,50 18,55 18,62
+        L 26,78 L 66,78
+        C 63,68 62,64 62,60
+        C 64,54 66,50 70,48
+        C 82,47 96,44 104,42 Z"/>
+    </g>
+    <path fill="#05080F" d="M10,182 C 50,171 86,180 120,177 C 154,174 186,183 230,176 L 230,246 L 10,246 Z"/>
+    <path d="M10,182 C 50,171 86,180 120,177 C 154,174 186,183 230,176"
+          fill="none" stroke="url(#ridge)" stroke-width="2"/>
+  </g>
+
+</svg>
