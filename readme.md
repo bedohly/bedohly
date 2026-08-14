@@ -21,9 +21,10 @@
 
 <img src="./assets/bedo.webp" align="left" width="250" alt="Bedo">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A6B8,100:000000&amp;height=70&amp;section=header&amp;text=About%20Me&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=52" width="100%" alt="About Me">
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A6B8,100:000000&amp;height=70&amp;section=header&amp;text=About%20Me&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="600" alt="About Me">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=F4A6B8&amp;width=520&amp;height=42&amp;lines=Full-Stack+Web+Developer;Database+to+the+last+pixel;Always+shipping+something+new" alt="Full-Stack Web Developer">
+Hey, I'm **Bedo** — a **Full-Stack Web Developer**.<br>
+I build web applications end to end: data model, API, interface.
 
 &#9656; &nbsp;**Whole stack, one brain** — schemas, APIs and interfaces in one flow<br>
 &#9656; &nbsp;**Performance first** — clean architecture, no dead weight<br>
@@ -43,7 +44,7 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A6B8,100:000000&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=52" width="100%" alt="Tech Stack">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A6B8,100:000000&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="Tech Stack">
 </p>
 
 <p align="center">
@@ -55,7 +56,7 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A6B8,100:000000&amp;height=70&amp;section=header&amp;text=GitHub%20Stats&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=52" width="100%" alt="GitHub Stats">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A6B8,100:000000&amp;height=70&amp;section=header&amp;text=GitHub%20Stats&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="GitHub Stats">
 </p>
 
 <p align="center">
