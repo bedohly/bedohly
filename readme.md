@@ -1,65 +1,101 @@
 <div align="center">
-  
-  <!-- Banner/Header Image -->
-  <img src="https://vercel.app✨&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="./assets/noir-istanbul-banner.png" width="100%" alt="Monochrome anime developer overlooking Istanbul at night" />
 
-  <br/>
+  <br />
 
-  <!-- Pronouns and Badges -->
-  <p align="center">
-    <img src="https://shields.io" alt="Pronouns" />
-    <img src="https://shields.io" alt="Location" />
+  <h1>BEDİRHAN YILMAZ</h1>
+
+  <p>
+    <code>SOFTWARE DEVELOPER</code>&nbsp;&nbsp;·&nbsp;&nbsp;
+    <code>ISTANBUL / TR</code>&nbsp;&nbsp;·&nbsp;&nbsp;
+    <code>18</code>
   </p>
 
-  <h3> ⚡ Crafting digital experiences with clean code and minimalist design. </h3>
-
-  <p> 
-    A passionate frontend developer and open-source enthusiast. <br/>
-    I focus on building responsive, elegant, and user-centric web applications.
-  </p>
-  
+  <sub>Building quiet systems for loud problems.</sub>
 </div>
 
----
+<br />
 
-### 🎨 Tech & Tools
-<p align="left">
-  <!-- Use Skill Icons for a clean, unified aesthetic -->
-  <a href="https://github.com">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+<img src="./assets/status-line.svg" width="100%" alt="Status: Istanbul, age 18, building Yekta v5" />
 
----
+## 01 / IDENTITY
 
-### 📊 GitHub Analytics
+I am an 18-year-old software developer based in **Istanbul, Türkiye**. I care about the part of software that survives after the first demo: clear architecture, deliberate interfaces, strong authorization and systems that remain understandable as they grow.
+
+```ts
+const bedirhan = {
+  location: "Istanbul, Türkiye",
+  age: 18,
+  building: "Yekta v5",
+  focus: [
+    "Frontend Architecture",
+    "Accessible Design Systems",
+    "Multi-tenant SaaS",
+    "API & Product Engineering",
+  ],
+  standard: "type-safe · accessible · maintainable",
+} as const;
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 02 / CURRENT MISSION
+
+### Yekta v5
+
+A modular, multi-tenant SaaS platform built for real business operations — ERP, MES and vertical products sharing one reliable core.
+
+- Designing a frontend architecture that can grow for years
+- Building accessible, reusable product primitives instead of page-specific UI
+- Separating server state, client state and form state cleanly
+- Treating authentication, authorization and tenant isolation as backend guarantees
+- Turning dense operational workflows into calm, usable interfaces
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 03 / ENGINEERING FOCUS
+
+| Field | What I work on |
+| :--- | :--- |
+| **Frontend Architecture** | Feature boundaries, design systems, state strategy, forms, data-heavy interfaces |
+| **Accessible UI** | Keyboard-first interaction, semantic components, predictable behavior, React Aria |
+| **Product Systems** | ERP / MES / SaaS workflows, multi-tenancy, role-based experiences |
+| **Backend & Data** | Laravel APIs, PostgreSQL, Redis, queues, authentication and authorization |
+| **UI / UX Engineering** | Responsive admin panels, information hierarchy, ergonomic operational screens |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 04 / TOOLKIT
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <!-- GitHub Readme Stats (Change username= to your actual GitHub username) -->
-        <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-      </td>
-      <td>
-        <!-- Most Used Languages -->
-        <img src="https://vercel.app" alt="Top Langs" height="150" />
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/stack.svg" width="100%" alt="TypeScript, React, React Aria, Zustand, TanStack Query, Laravel, PostgreSQL, Redis, Docker and Git" />
 </div>
 
----
+<br />
 
-### 💬 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://shields.io" alt="Twitter" />
-  </a>
-</p>
+`TypeScript` · `React` · `React Aria` · `Zustand` · `TanStack Query` · `Zod` · `Laravel` · `PostgreSQL` · `Redis` · `Docker` · `Git`
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 05 / BUILD PRINCIPLES
+
+```text
+01  Accessibility is infrastructure, not polish.
+02  State should live where it actually belongs.
+03  Authorization is enforced on the server.
+04  Boring, explicit code ages better than clever code.
+05  A design system is a product contract, not a component folder.
+06  Performance begins with architecture, not last-minute optimization.
+```
+
+<br />
+
+> Gürültüyü değil, sistemi büyüt.
+
+<div align="center">
+  <br />
+  <img src="./assets/noir-avatar.png" width="132" alt="Bedirhan's monochrome anime avatar" />
+  <br /><br />
+  <sub>ISTANBUL&nbsp;&nbsp;///&nbsp;&nbsp;BUILDING IN SILENCE&nbsp;&nbsp;///&nbsp;&nbsp;2026</sub>
+</div>
+
