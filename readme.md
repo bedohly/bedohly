@@ -21,15 +21,25 @@
 <!--                        ABOUT ME                        -->
 <!-- ====================================================== -->
 
-<!--
-SOL:
-./assets/pixel-bedohly.png
+<img src="./assets/bedo.webp" align="left" width="280" alt="Bedo">
 
-SAĞ:
-About Me
--->
+### Hey, I'm Bedo
 
+<img src="./assets/pink-line.svg" width="160" height="10" alt="">
 
+**Full-Stack Web Developer.**
+
+I build web applications end to end — database schemas and APIs on one
+side, pixel-tight interfaces on the other. I like systems that are fast,
+code that stays readable a year later, and UI that gets out of the way.
+
+- Backend and frontend, one brain
+- Performance, clean architecture, sharp design
+- Always shipping something new
+
+<br clear="left">
+
+<br>
 
 <!-- ====================================================== -->
 <!--                       TECH STACK                       -->
