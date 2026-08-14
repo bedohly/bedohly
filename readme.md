@@ -21,21 +21,28 @@
 <!--                        ABOUT ME                        -->
 <!-- ====================================================== -->
 
-<img src="./assets/bedo.webp" align="left" width="280" alt="Bedo">
+<img src="./assets/bedo.webp" align="left" width="300" alt="Bedo">
 
-### Hey, I'm Bedo
+### 👋 About Me
 
-<img src="./assets/pink-line.svg" width="160" height="10" alt="">
+<img src="./assets/pink-line.svg" width="150" height="10" alt="">
 
-**Full-Stack Web Developer.**
+🚀&nbsp; I'm a **Full-Stack Web Developer** — I build web apps end to end.<br>
+🧩&nbsp; Database schemas, APIs, interfaces — one brain, whole stack.<br>
+⚡&nbsp; Obsessed with performance, clean architecture and sharp UI.<br>
+🌙&nbsp; Mostly building at night, always shipping something new.
 
-I build web applications end to end — database schemas and APIs on one
-side, pixel-tight interfaces on the other. I like systems that are fast,
-code that stays readable a year later, and UI that gets out of the way.
+### 📫 Drop me a line:
 
-- Backend and frontend, one brain
-- Performance, clean architecture, sharp design
-- Always shipping something new
+<a href="mailto:info@yektateknoloji.com"><img src="https://img.shields.io/badge/Mail-000000?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Mail"></a>
+&nbsp;
+<a href="https://github.com/Bedohly"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxIDEgMC00LjEzIDIuMDcgMi4wNyAwIDAgMSAwIDQuMTNabTEuNzggMTMuMDJIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4%3D&logoColor=white" height="28" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://x.com/KULLANICI-ADIN"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="28" alt="X"></a>
+&nbsp;
+<a href="https://instagram.com/KULLANICI-ADIN"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" height="28" alt="Instagram"></a>
 
 <br clear="left">
 
