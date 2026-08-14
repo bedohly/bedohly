@@ -21,28 +21,26 @@
 <!--                        ABOUT ME                        -->
 <!-- ====================================================== -->
 
-<img src="./assets/bedo.webp" align="left" width="300" alt="Bedo">
+<img src="./assets/bedo.webp" align="left" width="260" alt="Bedo">
 
-### 👋 About Me
+## &nbsp;👋&nbsp; About Me
 
-<img src="./assets/pink-line.svg" width="150" height="10" alt="">
+Hey, I'm **Bedo** — a **Full-Stack Web Developer**.<br>
+I build web applications end to end and care about how they feel,
+not just whether they run.
 
-🚀&nbsp; I'm a **Full-Stack Web Developer** — I build web apps end to end.<br>
-🧩&nbsp; Database schemas, APIs, interfaces — one brain, whole stack.<br>
-⚡&nbsp; Obsessed with performance, clean architecture and sharp UI.<br>
-🌙&nbsp; Mostly building at night, always shipping something new.
+<br>
 
-### 📫 Drop me a line:
+🚀&nbsp;&nbsp; **Whole stack, one brain** — database schemas, APIs, interfaces<br><br>
+⚡&nbsp;&nbsp; **Performance first** — clean architecture, no dead weight<br><br>
+🧩&nbsp;&nbsp; **Idea to product** — I turn messy briefs into shipped software<br><br>
+🌙&nbsp;&nbsp; **Night shift** — always building something new
 
-<a href="mailto:info@yektateknoloji.com"><img src="https://img.shields.io/badge/Mail-000000?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Mail"></a>
-&nbsp;
-<a href="https://github.com/Bedohly"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxIDEgMC00LjEzIDIuMDcgMi4wNyAwIDAgMSAwIDQuMTNabTEuNzggMTMuMDJIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4%3D&logoColor=white" height="28" alt="LinkedIn"></a>
-&nbsp;
-<a href="https://x.com/KULLANICI-ADIN"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="28" alt="X"></a>
-&nbsp;
-<a href="https://instagram.com/KULLANICI-ADIN"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" height="28" alt="Instagram"></a>
+<br>
+
+### &nbsp;📫&nbsp; Drop me a line
+
+<a href="mailto:info@yektateknoloji.com"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&logo=gmail" height="34" alt="Mail"></a>&nbsp;<a href="https://github.com/Bedohly"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&logo=github" height="34" alt="GitHub"></a>&nbsp;<a href="https://www.linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxIDEgMC00LjEzIDIuMDcgMi4wNyAwIDAgMSAwIDQuMTNabTEuNzggMTMuMDJIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4%3D" height="34" alt="LinkedIn"></a>&nbsp;<a href="https://x.com/KULLANICI-ADIN"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&logo=x" height="34" alt="X"></a>&nbsp;<a href="https://instagram.com/KULLANICI-ADIN"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&logo=instagram" height="34" alt="Instagram"></a>
 
 <br clear="left">
 
