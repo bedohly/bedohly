@@ -19,22 +19,21 @@
 <!--                        ABOUT ME                        -->
 <!-- ====================================================== -->
 
-<img src="./assets/bedo.webp" align="left" width="290" alt="Bedo">
+<img src="./assets/bedo.webp" align="left" width="250" alt="Bedo">
 
-### 👋 About Me
+### 👋 &nbsp;About Me
 
 Hey, I'm **Bedo** — a **Full-Stack Web Developer**.<br>
-I build web applications end to end: data model, API, interface — and I care
-about how they feel, not just whether they run.
+I build web applications end to end: data model, API, interface.
 
-🚀 &nbsp;**Whole stack, one brain** — schemas, APIs and interfaces in one flow<br>
-⚡ &nbsp;**Performance first** — clean architecture, no dead weight<br>
-🎯 &nbsp;**Pixel-tight UI** — interfaces that get out of the way<br>
-🧩 &nbsp;**Idea to product** — messy briefs turned into shipped software<br>
-🔧 &nbsp;**Automation** — if I have to do it twice, I script it<br>
-🌙 &nbsp;**Night shift** — always building something new
+<img src="./assets/ico/mark.svg" height="11" alt=""> &nbsp;**Whole stack, one brain** — schemas, APIs and interfaces in one flow<br>
+<img src="./assets/ico/mark.svg" height="11" alt=""> &nbsp;**Performance first** — clean architecture, no dead weight<br>
+<img src="./assets/ico/mark.svg" height="11" alt=""> &nbsp;**Pixel-tight UI** — interfaces that get out of the way<br>
+<img src="./assets/ico/mark.svg" height="11" alt=""> &nbsp;**Idea to product** — messy briefs turned into shipped software<br>
+<img src="./assets/ico/mark.svg" height="11" alt=""> &nbsp;**Automation** — if I have to do it twice, I script it<br>
+<img src="./assets/ico/mark.svg" height="11" alt=""> &nbsp;**Night shift** — always building something new
 
-### 📫 Drop me a line
+### 📫 &nbsp;Drop me a line
 
 <a href="mailto:info@yektateknoloji.com"><img src="./assets/social/mail.svg" height="40" alt="Mail"></a><a href="https://github.com/Bedohly"><img src="./assets/social/github.svg" height="40" alt="GitHub"></a><a href="https://www.linkedin.com/in/KULLANICI-ADIN"><img src="./assets/social/linkedin.svg" height="40" alt="LinkedIn"></a><a href="https://x.com/KULLANICI-ADIN"><img src="./assets/social/x.svg" height="40" alt="X"></a><a href="https://instagram.com/KULLANICI-ADIN"><img src="./assets/social/instagram.svg" height="40" alt="Instagram"></a>
 
@@ -47,19 +46,7 @@ about how they feel, not just whether they run.
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=html5" height="28" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=css" height="28" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=javascript" height="28" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=typescript" height="28" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=react" height="28" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=nextdotjs" height="28" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=nodedotjs" height="28" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=express" height="28" alt="Express">
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=postgresql" height="28" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=mysql" height="28" alt="MySQL">
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=tailwindcss" height="28" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=git" height="28" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&amp;labelColor=000000&amp;color=000000&amp;logoColor=white&amp;logo=docker" height="28" alt="Docker">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mysql,tailwind,git,docker&amp;perline=7" alt="Tech Stack">
 </p>
 
 <!-- ====================================================== -->
