@@ -20,22 +20,22 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=FFFFFF&amp;height=70&amp;section=header&amp;text=About%20Me&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="About Me">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FFFFFF,60:FFFFFF,100:F4A6B8&amp;height=70&amp;section=header&amp;text=About%20Me&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="About Me">
 </p>
 
 <img src="./assets/bedo.webp" align="left" width="220" alt="Bedo">
 
-Hey, I'm **Bedo** — a **Full-Stack Web Developer**.<br>
-I build web applications end to end: data model, API, interface.
+Hey, I'm **Bedo**, a **Full-Stack Web Developer**. I build web applications end to
+end — the data model, the API and the interface — and I care how the result feels.
 
-&#9656; &nbsp;**Whole stack, one brain** — schemas, APIs and interfaces in one flow<br>
-&#9656; &nbsp;**Performance first** — clean architecture, no dead weight<br>
-&#9656; &nbsp;**Pixel-tight UI** — interfaces that get out of the way<br>
-&#9656; &nbsp;**Idea to product** — messy briefs turned into shipped software<br>
-&#9656; &nbsp;**Automation** — if I have to do it twice, I script it<br>
-&#9656; &nbsp;**Night shift** — always building something new
+&#9656; &nbsp;**Whole stack, one brain** — data models, APIs and interfaces designed in one pass<br>
+&#9656; &nbsp;**Performance first** — clean architecture, tight queries, no dead weight shipped<br>
+&#9656; &nbsp;**Pixel-tight UI** — interfaces that stay out of the way and survive real users<br>
+&#9656; &nbsp;**Idea to product** — messy briefs turned into something people can actually use<br>
+&#9656; &nbsp;**Automation** — if I have to do a thing twice, the second time is a script<br>
+&#9656; &nbsp;**Night shift** — most of this gets built long after everyone else logged off
 
-**&#9993; &nbsp;Drop me a line**
+📫 &nbsp;**Drop me a line**
 
 <a href="mailto:info@yektateknoloji.com"><img src="./assets/social/mail.svg" height="40" alt="Mail"></a><a href="https://github.com/Bedohly"><img src="./assets/social/github.svg" height="40" alt="GitHub"></a><a href="https://www.linkedin.com/in/KULLANICI-ADIN"><img src="./assets/social/linkedin.svg" height="40" alt="LinkedIn"></a><a href="https://x.com/KULLANICI-ADIN"><img src="./assets/social/x.svg" height="40" alt="X"></a><a href="https://instagram.com/KULLANICI-ADIN"><img src="./assets/social/instagram.svg" height="40" alt="Instagram"></a>
 
@@ -46,11 +46,11 @@ I build web applications end to end: data model, API, interface.
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=FFFFFF&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="Tech Stack">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FFFFFF,60:FFFFFF,100:F4A6B8&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="Tech Stack">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mysql,tailwind,git,docker&amp;perline=7" width="700" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mysql,git,docker&amp;perline=6" width="720" alt="Tech Stack">
 </p>
 
 <!-- ====================================================== -->
@@ -58,7 +58,7 @@ I build web applications end to end: data model, API, interface.
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=FFFFFF&amp;height=70&amp;section=header&amp;text=GitHub%20Stats&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="GitHub Stats">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FFFFFF,60:FFFFFF,100:F4A6B8&amp;height=70&amp;section=header&amp;text=GitHub%20Stats&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="GitHub Stats">
 </p>
 
 <p align="center">
