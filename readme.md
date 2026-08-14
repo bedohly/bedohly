@@ -19,9 +19,11 @@
 <!--                        ABOUT ME                        -->
 <!-- ====================================================== -->
 
-<img src="./assets/bedo.webp" align="left" width="250" alt="Bedo">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=FFFFFF&amp;height=70&amp;section=header&amp;text=About%20Me&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="About Me">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A6B8,100:000000&amp;height=70&amp;section=header&amp;text=About%20Me&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="600" alt="About Me">
+<img src="./assets/bedo.webp" align="left" width="220" alt="Bedo">
 
 Hey, I'm **Bedo** — a **Full-Stack Web Developer**.<br>
 I build web applications end to end: data model, API, interface.
@@ -44,11 +46,11 @@ I build web applications end to end: data model, API, interface.
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A6B8,100:000000&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="Tech Stack">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=FFFFFF&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="Tech Stack">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mysql,tailwind,git,docker&amp;perline=7" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mysql,tailwind,git,docker&amp;perline=7" width="700" alt="Tech Stack">
 </p>
 
 <!-- ====================================================== -->
@@ -56,7 +58,7 @@ I build web applications end to end: data model, API, interface.
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F4A6B8,100:000000&amp;height=70&amp;section=header&amp;text=GitHub%20Stats&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="GitHub Stats">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=FFFFFF&amp;height=70&amp;section=header&amp;text=GitHub%20Stats&amp;fontSize=34&amp;fontColor=000000&amp;fontAlign=50&amp;fontAlignY=52&amp;animation=fadeIn" width="100%" alt="GitHub Stats">
 </p>
 
 <p align="center">
