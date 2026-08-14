@@ -1,6 +1,5 @@
 <div align="center">
   <img src="./assets/noir-istanbul-banner.png" width="100%" alt="Monochrome anime developer overlooking Istanbul at night" />
-
   <br />
 
   <h1>BEDİRHAN YILMAZ</h1>
