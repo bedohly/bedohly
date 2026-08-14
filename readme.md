@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./sources/header.webp" width="100%" alt="Bedohly Header" />
+  <img src="./assets/header.webp" width="100%" alt="Bedohly Header" />
 </p>
 
 <br>
