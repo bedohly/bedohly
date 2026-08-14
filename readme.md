@@ -55,5 +55,5 @@
 <br><br>
 
 <p align="center">
-  <img src="./footer.gif" width="100%" alt="Bedohly Footer" />
+  <img src="./assets/footer.gif" width="100%" alt="Bedohly Footer" />
 </p>
