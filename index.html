@@ -6,6 +6,7 @@
 <title>Bedohly — Full-Stack Web Developer</title>
 <meta name="description" content="Bedo — Full-Stack Web Developer. Data models, APIs and interfaces designed in one pass.">
 <link rel="icon" href="./assets/bedo.webp">
+<link rel="preload" as="image" href="https://hits.sh/github.com/Bedohly.svg?style=flat-square&amp;label=VIEWS&amp;color=ffffff&amp;labelColor=000000" fetchpriority="high">
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="Bedohly — Full-Stack Web Developer">
@@ -15,293 +16,129 @@
 
 <style>
   :root{
-    --bg:#ffffff;
-    --ink:#0b0b0c;
-    --muted:#6d6d73;
+    --bg:#0d1117;
+    --text:#ffffff;
     --pink:#f4a6b8;
-    --pink-deep:#e07f96;
-    --pink-soft:#fdf1f4;
-    --line:#f0e4e8;
-    --radius:18px;
-    --shadow:0 1px 2px rgba(11,11,12,.04), 0 12px 32px rgba(224,127,150,.10);
   }
   *{box-sizing:border-box}
-  html{scroll-behavior:smooth}
+  html,body{background:var(--bg)}
   body{
-    margin:0; background:var(--bg); color:var(--ink);
-    font:16px/1.7 "Segoe UI",-apple-system,BlinkMacSystemFont,Roboto,Ubuntu,Helvetica,Arial,sans-serif;
+    margin:0; color:var(--text);
+    font:16px/1.75 "Segoe UI",-apple-system,BlinkMacSystemFont,Roboto,Ubuntu,Helvetica,Arial,sans-serif;
     -webkit-font-smoothing:antialiased;
   }
-  img{max-width:100%; display:block}
-  a{color:inherit}
-  .wrap{max-width:1060px; margin:0 auto; padding:0 24px}
+  img{max-width:100%; display:block; border:0}
+  a{color:var(--pink)}
 
-  /* ---------- nav ---------- */
-  .nav{
-    position:sticky; top:0; z-index:20;
-    background:rgba(255,255,255,.86); backdrop-filter:saturate(1.6) blur(10px);
-    border-bottom:1px solid var(--line);
-  }
-  .nav .wrap{display:flex; align-items:center; justify-content:space-between; height:62px}
-  .brand{display:flex; align-items:center; gap:10px; font-weight:700; letter-spacing:3px; font-size:14px}
-  .brand .dot{width:9px; height:9px; border-radius:50%; background:var(--pink)}
-  .nav ul{display:flex; gap:28px; list-style:none; margin:0; padding:0}
-  .nav a{
-    text-decoration:none; font-size:13px; letter-spacing:1.6px; text-transform:uppercase;
-    color:var(--muted); padding:6px 0; border-bottom:2px solid transparent; transition:.2s;
-  }
-  .nav a:hover{color:var(--ink); border-color:var(--pink)}
+  .wrap{max-width:900px; margin:0 auto; padding:38px 20px 56px}
+  .row{text-align:center; margin:22px 0}
+  .row img{display:inline-block; vertical-align:middle}
+  .row a{display:inline-block; vertical-align:middle}
+  .block{margin:38px 0 22px}
+  .gap{display:inline-block; width:10px}
 
-  /* ---------- hero ---------- */
-  .hero{padding:56px 0 12px}
-  .hero-banner{border-radius:var(--radius); overflow:hidden; border:1px solid var(--line)}
-  .hero h1{
-    margin:34px 0 8px; text-align:center; font-size:clamp(28px,4.4vw,44px);
-    letter-spacing:-.5px; line-height:1.15;
-  }
-  .hero h1 em{font-style:normal; color:var(--pink-deep)}
-  .hero .role{
-    text-align:center; margin:0 0 26px; color:var(--muted);
-    letter-spacing:5px; text-transform:uppercase; font-size:12px; font-weight:600;
-  }
-  .badges{display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:center}
-  .badges img{height:26px; border-radius:4px}
-  .cta{display:flex; gap:14px; justify-content:center; flex-wrap:wrap; margin:32px 0 8px}
-  .btn{
-    display:inline-flex; align-items:center; gap:9px; text-decoration:none;
-    padding:12px 22px; border-radius:999px; font-size:14px; font-weight:600;
-    border:1px solid var(--ink); background:var(--ink); color:#fff; transition:.22s;
-  }
-  .btn svg{width:17px; height:17px; fill:currentColor}
-  .btn:hover{transform:translateY(-2px); box-shadow:0 10px 24px rgba(11,11,12,.18)}
-  .btn.ghost{background:#fff; color:var(--ink); border-color:var(--line)}
-  .btn.ghost:hover{border-color:var(--pink); box-shadow:0 10px 24px rgba(224,127,150,.2)}
+  /* header meta strip — pink rules + badges, as in the README */
+  .meta img{height:26px; border-radius:3px}
+  .meta .line{height:14px; width:150px; border-radius:7px}
+  .meta .views{height:26px; border-radius:3px 0 0 3px}
+  .meta .views + img{border-radius:0 3px 3px 0}
+  .viewsbadge{background:#000; min-width:86px; border-radius:0 3px 3px 0}
 
-  /* ---------- section ---------- */
-  section{padding:76px 0}
-  .kicker{
-    color:var(--pink-deep); font-size:11px; font-weight:700;
-    letter-spacing:4px; text-transform:uppercase; margin:0 0 10px;
-  }
-  .title{margin:0 0 10px; font-size:clamp(24px,3.2vw,34px); letter-spacing:-.4px}
-  .rule{width:54px; height:3px; border-radius:3px; background:var(--pink); margin-bottom:34px}
-  .center{text-align:center}
-  .center .rule{margin-left:auto; margin-right:auto}
-
-  /* ---------- about ---------- */
-  .about{display:grid; grid-template-columns:300px 1fr; gap:52px; align-items:start}
-  .avatar{
-    background:linear-gradient(160deg,var(--pink-soft),#fff);
-    border:1px solid var(--line); border-radius:var(--radius);
-    padding:18px 18px 0; box-shadow:var(--shadow);
-  }
-  .lede{font-size:17.5px; margin:0 0 26px}
-  .lede strong{font-weight:700}
-  .traits{list-style:none; margin:0; padding:0; display:grid; gap:14px}
-  .traits li{display:flex; gap:13px; align-items:flex-start}
-  .traits b{display:block; font-size:15px}
-  .traits span{color:var(--muted); font-size:14.5px}
-  .traits .mark{
-    flex:none; margin-top:6px; width:8px; height:8px; border-radius:2px;
-    background:var(--pink); transform:rotate(45deg);
-  }
-
-  /* ---------- cards ---------- */
-  .card{
-    border:1px solid var(--line); border-radius:var(--radius);
-    background:#fff; box-shadow:var(--shadow); padding:28px;
-  }
-  .stack-card{text-align:center; padding:36px 28px}
-  .stack-card img{margin:0 auto}
-  .chips{display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin-top:26px}
-  .chip{
-    font-size:12px; letter-spacing:.4px; padding:6px 13px; border-radius:999px;
-    background:var(--pink-soft); border:1px solid var(--line); color:#5c5257;
-  }
-  .grid2{display:grid; grid-template-columns:1fr 1fr; gap:20px}
-  .grid2 .card{padding:14px; display:flex; align-items:center; justify-content:center}
-  .graph{margin-top:20px; padding:14px}
-
-  /* ---------- contact ---------- */
-  .contact{
-    background:linear-gradient(140deg,var(--pink-soft) 0%,#fff 65%);
-    border-top:1px solid var(--line); border-bottom:1px solid var(--line);
-  }
-  .contact .mail{
-    display:inline-block; margin-top:6px; font-size:clamp(20px,3vw,30px);
-    font-weight:700; text-decoration:none; letter-spacing:-.4px;
-    border-bottom:3px solid var(--pink); padding-bottom:3px;
-  }
-  .contact .mail:hover{color:var(--pink-deep)}
-  .socials{display:flex; gap:12px; justify-content:center; margin-top:30px}
-  .socials a{transition:.2s}
+  /* about */
+  .about{overflow:hidden}
+  .about .photo{float:left; width:210px; margin:4px 26px 10px 0}
+  .about p{margin:0 0 18px}
+  .about .lines{margin:0 0 22px}
+  .about .lines b{color:#fff}
+  .contact-h{margin:26px 0 12px; font-weight:700}
+  .socials a{display:inline-block; transition:transform .18s ease}
   .socials a:hover{transform:translateY(-3px)}
-  .socials img{height:42px}
+  .socials img{height:40px; display:inline-block}
 
-  /* ---------- footer ---------- */
-  footer{padding:0 0 34px}
-  footer .strip{border-radius:var(--radius); overflow:hidden; border:1px solid var(--line)}
-  .copy{
-    text-align:center; color:var(--muted); font-size:13px; margin-top:22px;
-    display:flex; gap:8px; justify-content:center; align-items:center; flex-wrap:wrap;
-  }
-  .copy .dot{width:5px; height:5px; border-radius:50%; background:var(--pink)}
+  /* two-up stat cards */
+  .cards{display:flex; gap:14px; justify-content:center; flex-wrap:wrap}
+  .cards img{width:48%; min-width:280px; flex:1 1 280px}
 
-  /* ---------- reveal ---------- */
-  .reveal{opacity:0; transform:translateY(16px); transition:opacity .6s ease, transform .6s ease}
-  .reveal.in{opacity:1; transform:none}
-  @media (prefers-reduced-motion:reduce){
-    .reveal{opacity:1; transform:none; transition:none}
-    html{scroll-behavior:auto}
-  }
+  footer{margin-top:44px}
 
-  @media (max-width:860px){
-    .nav ul{gap:18px}
-    .about{grid-template-columns:1fr; gap:32px}
-    .avatar{max-width:260px; margin:0 auto}
-    .grid2{grid-template-columns:1fr}
-    section{padding:56px 0}
-  }
-  @media (max-width:560px){
-    .nav ul{display:none}
-    .brand{letter-spacing:2px}
+  @media (max-width:620px){
+    .about .photo{float:none; width:190px; margin:0 auto 20px}
+    .about{text-align:left}
+    .meta .line{display:none}
+    .cards img{width:100%}
   }
 </style>
 </head>
 <body>
+<div class="wrap">
 
-<nav class="nav">
-  <div class="wrap">
-    <div class="brand"><span class="dot"></span> BEDOHLY</div>
-    <ul>
-      <li><a href="#about">About</a></li>
-      <li><a href="#stack">Stack</a></li>
-      <li><a href="#stats">Stats</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
+  <!-- ============ HEADER + PROFILE STATS ============ -->
+  <img src="./assets/header.webp" alt="Bedohly">
+
+  <div class="row meta">
+    <img class="line" src="./assets/pink-line.svg" alt="">
+    <span class="gap"></span>
+    <img class="views" src="./assets/icon-views.svg" alt=""><img class="viewsbadge" src="https://hits.sh/github.com/Bedohly.svg?style=flat-square&amp;label=VIEWS&amp;color=ffffff&amp;labelColor=000000" alt="Views" fetchpriority="high" onerror="this.onerror=null;this.src='https://komarev.com/ghpvc/?username=Bedohly&label=VIEWS&color=ffffff&style=flat-square'">
+    <span class="gap"></span>
+    <a href="https://github.com/Bedohly/Bedohly/stargazers"><img src="https://img.shields.io/github/stars/Bedohly/Bedohly?style=flat-square&amp;label=STARS&amp;labelColor=000000&amp;color=ffffff" alt="Stars"></a>
+    <span class="gap"></span>
+    <a href="https://github.com/Bedohly/Bedohly/network/members"><img src="https://img.shields.io/github/forks/Bedohly/Bedohly?style=flat-square&amp;label=FORKS&amp;labelColor=000000&amp;color=ffffff" alt="Forks"></a>
+    <span class="gap"></span>
+    <a href="https://github.com/Bedohly?tab=followers"><img src="https://img.shields.io/github/followers/Bedohly?style=flat-square&amp;label=FOLLOWERS&amp;labelColor=000000&amp;color=ffffff" alt="Followers"></a>
+    <span class="gap"></span>
+    <img class="line" src="./assets/pink-line.svg" alt="">
   </div>
-</nav>
 
-<header class="hero">
-  <div class="wrap">
-    <div class="hero-banner"><img src="./assets/header.webp" alt="Bedohly"></div>
+  <!-- ============ ABOUT ME ============ -->
+  <div class="block"><img src="./assets/banner-about.svg" alt="About Me"></div>
 
-    <h1>Hey, I'm <em>Bedo</em> — I build web apps end to end.</h1>
-    <p class="role">Full-Stack Web Developer</p>
+  <div class="about">
+    <img class="photo" src="./assets/bedo.webp" alt="Bedo">
 
-    <div class="badges">
-      <img src="https://hits.sh/github.com/Bedohly.svg?style=flat-square&label=VIEWS&color=F4A6B8&labelColor=000000" alt="Views">
-      <img src="https://img.shields.io/github/stars/Bedohly/Bedohly?style=flat-square&label=STARS&labelColor=000000&color=F4A6B8" alt="Stars">
-      <img src="https://img.shields.io/github/forks/Bedohly/Bedohly?style=flat-square&label=FORKS&labelColor=000000&color=F4A6B8" alt="Forks">
-      <img src="https://img.shields.io/github/followers/Bedohly?style=flat-square&label=FOLLOWERS&labelColor=000000&color=F4A6B8" alt="Followers">
-    </div>
-
-    <div class="cta">
-      <a class="btn" href="mailto:info@yektateknoloji.com">
-        <svg viewBox="0 0 24 24"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
-        Drop me a line
-      </a>
-      <a class="btn ghost" href="https://github.com/Bedohly" target="_blank" rel="noopener">
-        <svg viewBox="0 0 24 24"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
-        GitHub
-      </a>
-    </div>
-  </div>
-</header>
-
-<section id="about">
-  <div class="wrap">
-    <div class="about reveal">
-      <div class="avatar"><img src="./assets/bedo.webp" alt="Bedo"></div>
-      <div>
-        <p class="kicker">About me</p>
-        <h2 class="title">Whole stack, one brain.</h2>
-        <div class="rule"></div>
-        <p class="lede">
-          I build web applications end to end — the data model, the API and the interface —
-          and I care how the result feels.
-        </p>
-        <ul class="traits">
-          <li><i class="mark"></i><div><b>Whole stack, one brain</b><span>Data models, APIs and interfaces designed in one pass.</span></div></li>
-          <li><i class="mark"></i><div><b>Performance first</b><span>Clean architecture, tight queries, no dead weight shipped.</span></div></li>
-          <li><i class="mark"></i><div><b>Pixel-tight UI</b><span>Interfaces that stay out of the way and survive real users.</span></div></li>
-          <li><i class="mark"></i><div><b>Idea to product</b><span>Messy briefs turned into something people can actually use.</span></div></li>
-          <li><i class="mark"></i><div><b>Automation</b><span>If I have to do a thing twice, the second time is a script.</span></div></li>
-          <li><i class="mark"></i><div><b>Night shift</b><span>Most of this gets built long after everyone else logged off.</span></div></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="stack" style="background:linear-gradient(180deg,#fff,var(--pink-soft) 60%,#fff)">
-  <div class="wrap">
-    <div class="center">
-      <p class="kicker">Tech stack</p>
-      <h2 class="title">The tools I reach for</h2>
-      <div class="rule"></div>
-    </div>
-    <div class="card stack-card reveal">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass,nodejs,express,nestjs,python,php,laravel,mysql,postgres,mongodb,redis,git,github,docker,vscode&perline=8"
-           width="560" alt="Tech stack">
-      <div class="chips">
-        <span class="chip">Frontend</span>
-        <span class="chip">Backend</span>
-        <span class="chip">Databases</span>
-        <span class="chip">DevOps</span>
-        <span class="chip">Automation</span>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="stats">
-  <div class="wrap">
-    <div class="center">
-      <p class="kicker">GitHub</p>
-      <h2 class="title">What the commits say</h2>
-      <div class="rule"></div>
-    </div>
-    <div class="grid2 reveal">
-      <div class="card"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bedohly&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=FFFFFF&title_color=F4A6B8&text_color=000000&icon_color=F4A6B8&ring_color=F4A6B8&hide_border=true" alt="GitHub stats"></div>
-      <div class="card"><img src="https://streak-stats.vercel.app/?user=Bedohly&hide_border=true&background=FFFFFF&stroke=FFFFFF&ring=F4A6B8&fire=F4A6B8&currStreakNum=F4A6B8&currStreakLabel=F4A6B8&sideNums=000000&sideLabels=000000&dates=666666" alt="GitHub streak"></div>
-    </div>
-    <div class="card graph reveal">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bedohly&bg_color=FFFFFF&color=000000&line=F4A6B8&point=F4A6B8&title_color=000000&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph">
-    </div>
-  </div>
-</section>
-
-<section id="contact" class="contact">
-  <div class="wrap center reveal">
-    <p class="kicker">Contact</p>
-    <h2 class="title">Got something to build?</h2>
-    <div class="rule"></div>
-    <a class="mail" href="mailto:info@yektateknoloji.com">info@yektateknoloji.com</a>
-    <div class="socials">
-      <a href="mailto:info@yektateknoloji.com" aria-label="Mail"><img src="./assets/social/mail.svg" alt="Mail"></a>
-      <a href="https://github.com/Bedohly" target="_blank" rel="noopener" aria-label="GitHub"><img src="./assets/social/github.svg" alt="GitHub"></a>
-    </div>
-  </div>
-</section>
-
-<footer>
-  <div class="wrap">
-    <div class="strip"><img src="./assets/footer.gif" alt=""></div>
-    <p class="copy">
-      <span>© <span id="y">2026</span> Bedohly</span>
-      <span class="dot"></span>
-      <span>Built end to end, after hours</span>
+    <p>
+      Hey, I'm <b>Bedo</b>, a <b>Full-Stack Web Developer</b>. I build web applications end to
+      end — the data model, the API and the interface — and I care how the result feels.
     </p>
-  </div>
-</footer>
 
-<script>
-  document.getElementById('y').textContent = new Date().getFullYear();
-  const io = new IntersectionObserver((entries) => {
-    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
-  }, { threshold: .12 });
-  document.querySelectorAll('.reveal').forEach(el => io.observe(el));
-</script>
+    <div class="lines">
+      &#9656; &nbsp;<b>Whole stack, one brain</b> — data models, APIs and interfaces designed in one pass<br>
+      &#9656; &nbsp;<b>Performance first</b> — clean architecture, tight queries, no dead weight shipped<br>
+      &#9656; &nbsp;<b>Pixel-tight UI</b> — interfaces that stay out of the way and survive real users<br>
+      &#9656; &nbsp;<b>Idea to product</b> — messy briefs turned into something people can actually use<br>
+      &#9656; &nbsp;<b>Automation</b> — if I have to do a thing twice, the second time is a script<br>
+      &#9656; &nbsp;<b>Night shift</b> — most of this gets built long after everyone else logged off
+    </div>
+
+    <p class="contact-h">📫 &nbsp;Drop me a line</p>
+
+    <div class="socials">
+      <a href="mailto:info@yektateknoloji.com"><img src="./assets/social/mail.svg" alt="Mail"></a><a href="https://github.com/Bedohly"><img src="./assets/social/github.svg" alt="GitHub"></a><img src="./assets/social/linkedin.svg" alt="LinkedIn"><img src="./assets/social/x.svg" alt="X"><img src="./assets/social/instagram.svg" alt="Instagram">
+    </div>
+  </div>
+
+  <!-- ============ TECH STACK ============ -->
+  <div class="block"><img src="./assets/banner-stack.svg" alt="Tech Stack"></div>
+
+  <div class="row">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass,nodejs,express,nestjs,python,php,laravel,mysql,postgres,mongodb,redis,git,github,docker,vscode&amp;perline=8"
+         width="560" alt="Tech Stack">
+  </div>
+
+  <!-- ============ GITHUB STATS ============ -->
+  <div class="block"><img src="./assets/banner-stats.svg" alt="GitHub Stats"></div>
+
+  <div class="cards">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bedohly&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=FFFFFF&amp;title_color=F4A6B8&amp;text_color=000000&amp;icon_color=F4A6B8&amp;ring_color=F4A6B8&amp;hide_border=true" alt="Bedohly's GitHub Stats">
+    <img src="https://streak-stats.vercel.app/?user=Bedohly&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=FFFFFF&amp;ring=F4A6B8&amp;fire=F4A6B8&amp;currStreakNum=F4A6B8&amp;currStreakLabel=F4A6B8&amp;sideNums=000000&amp;sideLabels=000000&amp;dates=666666" alt="Bedohly's GitHub Streak">
+  </div>
+
+  <div class="row">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bedohly&amp;bg_color=FFFFFF&amp;color=000000&amp;line=F4A6B8&amp;point=F4A6B8&amp;title_color=000000&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Graph" alt="Bedohly's Contribution Graph">
+  </div>
+
+  <!-- ============ FOOTER ============ -->
+  <footer><img src="./assets/footer.gif" alt="Bedohly Footer"></footer>
+
+</div>
 </body>
 </html>
