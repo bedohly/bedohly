@@ -38,7 +38,7 @@
     font:16px/1.75 "Segoe UI",-apple-system,BlinkMacSystemFont,Roboto,Ubuntu,Helvetica,Arial,sans-serif;
     -webkit-font-smoothing:antialiased;
   }
-  img{max-width:100%; display:block; border:0}
+  img{max-width:100%; height:auto; display:block; border:0}
   a{color:var(--pink)}
 
   .wrap{max-width:900px; margin:0 auto; padding:38px 20px 56px}
@@ -49,8 +49,9 @@
   .gap{display:inline-block; width:10px}
 
   /* header meta strip — pink rules + badges, as in the README */
-  .meta img{height:26px; border-radius:3px}
+  .meta img{height:26px; width:auto; border-radius:3px}
   .meta .line{height:14px; width:150px; border-radius:7px}
+  .about .photo{height:auto}
   .meta .views{height:26px; border-radius:3px 0 0 3px}
   .meta .views + img{border-radius:0 3px 3px 0}
   .viewsbadge{background:#000; min-width:86px; border-radius:0 3px 3px 0}
@@ -64,7 +65,7 @@
   .contact-h{margin:26px 0 12px; font-weight:700}
   .socials a{display:inline-block; transition:transform .18s ease}
   .socials a:hover{transform:translateY(-3px)}
-  .socials img{height:40px; display:inline-block}
+  .socials img{height:40px; width:auto; display:inline-block}
 
   /* two-up stat cards */
   .cards{display:flex; gap:14px; justify-content:center; flex-wrap:wrap}
@@ -98,7 +99,7 @@
 <div class="wrap">
 
   <!-- ============ HEADER + PROFILE STATS ============ -->
-  <img src="./assets/header.webp" alt="Bedohly">
+  <img src="./assets/header.webp" alt="Bedohly" width="2170" height="725">
 
   <div class="row meta">
     <img class="line" src="./assets/pink-line.svg" alt="">
@@ -118,7 +119,7 @@
   <div class="block"><img src="./assets/banner-about.svg" alt="About Me"></div>
 
   <div class="about">
-    <img class="photo" src="./assets/bedo.webp" alt="Bedo">
+    <img class="photo" src="./assets/bedo.webp" alt="Bedo" width="1024" height="1536">
 
     <p>
       Hey, I'm <b>Bedo</b>, a <b>Full-Stack Web Developer</b>. I build web applications end to
@@ -162,7 +163,7 @@
   </div>
 
   <!-- ============ FOOTER ============ -->
-  <footer><img src="./assets/footer.gif" alt="Bedohly Footer" loading="lazy" decoding="async"></footer>
+  <footer><img src="./assets/footer.gif" alt="Bedohly Footer" width="2000" height="915" loading="lazy" decoding="async"></footer>
 
 </div>
 </body>
