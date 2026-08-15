@@ -6,6 +6,8 @@
 <title>Bedohly — Full-Stack Web Developer</title>
 <meta name="description" content="Bedo — Full-Stack Web Developer. Data models, APIs and interfaces designed in one pass.">
 <link rel="icon" href="./assets/bedo.webp">
+<link rel="apple-touch-icon" href="./assets/bedo.webp">
+<link rel="manifest" href="./site.webmanifest">
 <link rel="preload" as="image" href="https://hits.sh/github.com/Bedohly.svg?style=flat-square&amp;label=VIEWS&amp;color=ffffff&amp;labelColor=000000" fetchpriority="high">
 
 <link rel="canonical" href="https://bedohly.github.io/">
@@ -16,7 +18,12 @@
 <meta property="og:title" content="Bedohly — Full-Stack Web Developer">
 <meta property="og:description" content="Data models, APIs and interfaces designed in one pass.">
 <meta property="og:image" content="https://raw.githubusercontent.com/Bedohly/Bedohly/main/assets/header.webp">
+<meta property="og:image:alt" content="The Bedohly wordmark framed by cherry blossom">
+<meta property="og:site_name" content="Bedohly">
+<meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/Bedohly/Bedohly/main/assets/header.webp">
+<meta name="author" content="Bedirhan Yılmaz">
 
 <style>
   :root{
@@ -64,6 +71,20 @@
   .cards img{width:48%; min-width:280px; flex:1 1 280px}
 
   footer{margin-top:44px}
+
+  @media (prefers-reduced-motion:reduce){
+    .socials a{transition:none}
+    .socials a:hover{transform:none}
+  }
+
+  @media print{
+    html,body{background:#fff}
+    body{color:#000}
+    .about .lines b{color:#000}
+    .meta,.socials{display:none}
+    .wrap{max-width:none; padding:0}
+    footer{display:none}
+  }
 
   @media (max-width:620px){
     .about .photo{float:none; width:190px; margin:0 auto 20px}
@@ -116,7 +137,7 @@
     <p class="contact-h">📫 &nbsp;Drop me a line</p>
 
     <div class="socials">
-      <a href="mailto:info@yektateknoloji.com"><img src="./assets/social/mail.svg" alt="Mail"></a><a href="https://github.com/Bedohly"><img src="./assets/social/github.svg" alt="GitHub"></a><img src="./assets/social/linkedin.svg" alt="LinkedIn"><img src="./assets/social/x.svg" alt="X"><img src="./assets/social/instagram.svg" alt="Instagram">
+      <a href="mailto:info@yektateknoloji.com" aria-label="Send an email"><img src="./assets/social/mail.svg" alt="Mail"></a><a href="https://github.com/Bedohly" rel="me noopener" aria-label="GitHub profile"><img src="./assets/social/github.svg" alt="GitHub"></a><img src="./assets/social/linkedin.svg" alt="LinkedIn"><img src="./assets/social/x.svg" alt="X"><img src="./assets/social/instagram.svg" alt="Instagram">
     </div>
   </div>
 
