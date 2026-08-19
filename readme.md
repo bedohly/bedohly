@@ -23,8 +23,6 @@
   <img src="./assets/banner-about.svg" width="100%" alt="About Me">
 </p>
 
-<img src="./assets/bedo.webp" align="left" width="220" alt="Bedo">
-
 Hey, I'm **Bedo**, a **Full-Stack Web Developer**. I build web applications end to
 end — the data model, the API and the interface — and I care how the result feels.
 
