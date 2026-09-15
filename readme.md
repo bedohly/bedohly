@@ -3,4 +3,4 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="./assets/header.webp" width="100%" alt="Bedohly Header">
+  <img src="./assets/headernew.webp" width="100%" alt="Bedohly Header">
