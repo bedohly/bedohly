@@ -1,50 +1,32 @@
 <p align="center">
-  <img src="./assets/header.webp" width="100%" alt="bedohly">
+  <img src="./assets/header.webp" width="100%" alt="bedohly" />
 </p>
 
 <h3 align="center"><i>Nice works need nice people.</i> 🌸</h3>
-<p align="center">
-  <sub>istanbul-based builder · clean code, quiet design, purple everything</sub>
+<p align="center"><sub>sakura-powered software — istanbul</sub></p>
+
+<div align="center">
+
+<p>
+  <span style="display:inline-block;background-color:#2E1065;color:#F5F3FF;font-size:12px;font-weight:700;padding:5px 14px;border-radius:20px;">bedohly</span>
+  <span style="display:inline-block;background-color:#F5F3FF;color:#2E1065;font-size:12px;font-weight:600;padding:5px 14px;border-radius:20px;border:1px solid #DDD6FE;">yekta teknoloji</span>
+  <span style="display:inline-block;background-color:#F5F3FF;color:#2E1065;font-size:12px;font-weight:600;padding:5px 14px;border-radius:20px;border:1px solid #DDD6FE;">istanbul</span>
 </p>
 
-<p align="center">
-  <img src="./assets/pink-line.svg" width="100%" height="12" alt="" />
+<p>
+  <span style="display:inline-block;background-color:#7C3AED;color:#FFFFFF;font-size:12px;font-weight:700;padding:5px 12px;border-radius:6px;">typescript</span>
+  <span style="display:inline-block;background-color:#7C3AED;color:#FFFFFF;font-size:12px;font-weight:700;padding:5px 12px;border-radius:6px;">react</span>
+  <span style="display:inline-block;background-color:#7C3AED;color:#FFFFFF;font-size:12px;font-weight:700;padding:5px 12px;border-radius:6px;">next.js</span>
+  <span style="display:inline-block;background-color:#A855F7;color:#FFFFFF;font-size:12px;font-weight:700;padding:5px 12px;border-radius:6px;">node</span>
+  <span style="display:inline-block;background-color:#A855F7;color:#FFFFFF;font-size:12px;font-weight:700;padding:5px 12px;border-radius:6px;">tailwind</span>
+  <span style="display:inline-block;background-color:#A855F7;color:#FFFFFF;font-size:12px;font-weight:700;padding:5px 12px;border-radius:6px;">python</span>
 </p>
 
-<p align="center">
-  <img src="./assets/banner-about.svg" width="100%" alt="About" />
+<p>
+  <a href="https://github.com/bedohly" style="display:inline-block;background-color:#2E1065;color:#FFFFFF;font-size:13px;font-weight:700;padding:8px 22px;border-radius:8px;text-decoration:none;">github</a>
+  <a href="https://profilim.tr" style="display:inline-block;background-color:#FFFFFF;color:#2E1065;font-size:13px;font-weight:700;padding:8px 22px;border-radius:8px;text-decoration:none;border:2px solid #7C3AED;">profilim.tr</a>
 </p>
 
-- 🔭 building at **Yekta Teknoloji**
-- 📍 Istanbul, Türkiye
-- 🌐 [profilim.tr](https://profilim.tr)
-- ✨ sade, hızlı ve işlevsel şeyler severim
+<p><sub>build — break — bloom · 桜 purple enjoyer</sub></p>
 
-<p align="center">
-  <img src="./assets/banner-stack.svg" width="100%" alt="Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-A855F7?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-4C1D95?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-2E1065?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-6D28D9?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-C4B5FD?style=flat-square&logo=tailwindcss&logoColor=2E1065" />
-</p>
-
-<p align="center">
-  <img src="./assets/banner-stats.svg" width="100%" alt="Stats" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bedohly&show_icons=true&theme=transparent&title_color=6D28D9&icon_color=7C3AED&text_color=2E1065&bg_color=F5F3FF&border_color=A855F7" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedohly&layout=compact&theme=transparent&title_color=6D28D9&text_color=2E1065&bg_color=F5F3FF&border_color=A855F7" alt="langs" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/bedohly"><img src="./assets/social/github.svg" height="30" alt="GitHub" /></a>&nbsp;
-  <a href="https://profilim.tr"><img src="./assets/social/mail.svg" height="30" alt="Web" /></a>
-  <br />
-  <sub>桜 — bedohly</sub>
-</p>
+</div>
