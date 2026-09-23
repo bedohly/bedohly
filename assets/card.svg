@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBFAFF"/>
+      <stop offset="100%" stop-color="#EFE8FF"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2E1065"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <style>
+      .logo { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-style: italic; font-size: 30px; fill: #FFFFFF; }
+      .bar-sub { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; fill: #DDD6FE; }
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 34px; fill: #2E1065; }
+      .sub { font-family: 'Segoe UI', Arial, sans-serif; font-size: 17px; fill: #6D28D9; }
+      .label { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 14px; letter-spacing: 4px; fill: #7C3AED; }
+      .pill-t { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 15px; fill: #FFFFFF; }
+      .info { font-family: 'Segoe UI', Arial, sans-serif; font-size: 17px; fill: #4C1D95; }
+      .btn-a { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 16px; fill: #FFFFFF; }
+      .btn-b { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 16px; fill: #2E1065; }
+      .foot { font-family: 'Segoe UI', Arial, sans-serif; font-style: italic; font-size: 16px; fill: #7C3AED; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="440" rx="20" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1000" height="440" rx="20" fill="none" stroke="#A855F7" stroke-width="2"/>
+
+  <path d="M0,20 L0,0 L1000,0 L1000,20 Z" fill="url(#bar)"/>
+  <rect x="0" y="0" width="1000" height="64" fill="url(#bar)"/>
+  <text class="logo" x="36" y="43">bedohly</text>
+  <text class="bar-sub" x="964" y="41" text-anchor="end">istanbul · yekta teknoloji</text>
+
+  <polygon points="720,64 860,64 660,440 520,440" fill="#A855F7" opacity="0.10"/>
+  <polygon points="880,64 910,64 710,440 680,440" fill="#7C3AED" opacity="0.14"/>
+
+  <circle cx="880" cy="130" r="7" fill="#E9B9FF" opacity="0.9"/>
+  <circle cx="920" cy="180" r="4" fill="#C4B5FD" opacity="0.9"/>
+  <circle cx="845" cy="210" r="5" fill="#F0ABFC" opacity="0.8"/>
+  <circle cx="940" cy="250" r="6" fill="#D8B4FE" opacity="0.8"/>
+
+  <text class="title" x="40" y="132">Nice works need nice people.</text>
+  <text class="sub" x="42" y="162">sakura-powered software — clean code, quiet design</text>
+
+  <line x1="40" y1="186" x2="640" y2="186" stroke="#C4B5FD" stroke-width="2"/>
+
+  <text class="label" x="40" y="218">STACK</text>
+  <g>
+    <rect x="40" y="230" width="132" height="36" rx="18" fill="url(#pill)"/>
+    <text class="pill-t" x="106" y="254" text-anchor="middle">typescript</text>
+    <rect x="182" y="230" width="100" height="36" rx="18" fill="url(#pill)"/>
+    <text class="pill-t" x="232" y="254" text-anchor="middle">react</text>
+    <rect x="292" y="230" width="104" height="36" rx="18" fill="url(#pill)"/>
+    <text class="pill-t" x="344" y="254" text-anchor="middle">next.js</text>
+    <rect x="406" y="230" width="90" height="36" rx="18" fill="url(#pill)"/>
+    <text class="pill-t" x="451" y="254" text-anchor="middle">node</text>
+    <rect x="506" y="230" width="104" height="36" rx="18" fill="url(#pill)"/>
+    <text class="pill-t" x="558" y="254" text-anchor="middle">tailwind</text>
+    <rect x="620" y="230" width="96" height="36" rx="18" fill="url(#pill)"/>
+    <text class="pill-t" x="668" y="254" text-anchor="middle">python</text>
+  </g>
+
+  <text class="info" x="40" y="304">› building at yekta teknoloji</text>
+  <text class="info" x="40" y="332">› simple, fast, functional — mor her şey</text>
+  <text class="info" x="40" y="360">› github.com/bedohly · profilim.tr</text>
+
+  <rect x="40" y="380" width="170" height="38" rx="10" fill="#2E1065"/>
+  <text class="btn-a" x="125" y="405" text-anchor="middle">github</text>
+  <rect x="222" y="380" width="170" height="38" rx="10" fill="none" stroke="#7C3AED" stroke-width="2"/>
+  <text class="btn-b" x="307" y="405" text-anchor="middle">profilim.tr</text>
+
+  <text class="foot" x="960" y="406" text-anchor="end">桜 build — break — bloom</text>
+</svg>
